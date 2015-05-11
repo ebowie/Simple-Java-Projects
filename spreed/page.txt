@@ -1,0 +1,8 @@
+Get the name and password for an account on your
+computer that has administrator privileges. The installer modifies the
+system registry during installation.
+Get the name and password of the administrator account
+on your computer. The administrator account is the user account you
+set up when you configured your Macintosh system; this is not your
+MathWorks Account. During installation, you must enter this name and
+password in the Authenticate dialog box.
